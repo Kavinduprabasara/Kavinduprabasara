@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 
 <hr/>
 
+### 📫 Contact Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Wijegunasekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)](https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-kavinduvijegunasekara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dulangawimalagunasekara@gmail.com)](mailto:kavinduvijegunasekara@gmail.com)
+
+
 
 
 <!-- <img alt='stats' align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kavinduprabasara&show_icons=true&theme=radical"/>
