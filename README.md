@@ -1,4 +1,4 @@
-## Hi Kavindu Wijegunasekara👋
+## Kavindu Wijegunasekara👋
 
 **`IT Enthusiast`**
 
