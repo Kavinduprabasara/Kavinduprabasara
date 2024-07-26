@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 
 
 
-[![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavinduprabasara&show_icons=true)](https://github.com/Kavinduprabasara/github-readme-stats)
+<img alt='stats' align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kavinduprabasara&show_icons=true&theme=radical"/>
+<img alt ='languages'align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinduprabasara&show_icons=true&theme=radical&layout=compact"/>
