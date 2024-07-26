@@ -1,6 +1,6 @@
 ## Kavindu Wijegunasekara👋
 
-**`IT Enthusiast`**
+**`IT Enthusiast`** **`FullStack Developer`**
 
 I'm currently pursuing a BSc Hons in Information Technology at the University of Moratuwa. As a passionate fullstack developer and designer, I thrive in the dynamic world of the IT industry. My enthusiasm for technology drives me to continuously expand my knowledge and skills, particularly in the field of DevOps, which I find incredibly fascinating. I'm always eager to learn, grow, and take on new challenges in this ever-evolving field.
 <!--
