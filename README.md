@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<br />
+<br/>
+<br/>
+
+<hr/>
+
 
 
 [![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavinduprabasara&show_icons=true)](https://github.com/Kavinduprabasara/github-readme-stats)
