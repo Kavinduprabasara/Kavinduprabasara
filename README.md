@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Kavindu_Wijegunasekara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)](https://www.linkedin.com/in/kavindu-wijegunasekara-49729a219/)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-kavinduvijegunasekara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavinduvijegunasekara@gmail.com)](mailto:kavinduvijegunasekara@gmail.com)
+<br/>
+<hr/>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavinduprabasara&theme=discord&no-frame=false&no-bg=true&margin-w=4)
