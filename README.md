@@ -2,7 +2,7 @@
 
 **`IT Enthusiast`** **`FullStack Developer`**
 
-I'm currently pursuing a BSc Hons in Information Technology at the University of Moratuwa. As a passionate fullstack developer and designer, I thrive in the dynamic world of the IT industry. My enthusiasm for technology drives me to continuously expand my knowledge and skills, particularly in the field of DevOps, which I find incredibly fascinating. I'm always eager to learn, grow, and take on new challenges in this ever-evolving field.
+I'm currently pursuing a BSc Hons in Information Technology at the University of Moratuwa. As a passionate fullstack developer and a XR application developer, I thrive in the dynamic world of the IT industry. My enthusiasm for technology drives me to continuously expand my knowledge and skills, particularly in the field of XR, which I find incredibly fascinating. I'm always eager to learn, grow, and take on new challenges in this ever-evolving field.
 <!--
 **Kavinduprabasara/Kavinduprabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
