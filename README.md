@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br/>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,nextjs,nestjs,prisma,tailwind,ts,kotlin,java,git,cs,flutter,dart,bash,bootstrap,c,css,docker,express,figma,firebase,googlecloud,github,html,idea,js,flutter,linux,materialui,mongodb,mysql,nodejs,postman,py,react,blender&perline=20" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,nextjs,nestjs,prisma,tailwind,ts,kotlin,java,git,cs,bash,c,css,docker,express,figma,firebase,googlecloud,github,html,js,linux,materialui,mongodb,mysql,nodejs,postman,py,react,blender&perline=20" />
   </a>
 </p>
 
